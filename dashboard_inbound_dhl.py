@@ -107,4 +107,5 @@ prod_gain = (1132 - 944) / 944
 st.metric("📊 Ganho Real de Produtividade", f"{prod_gain:.1%}")
 
 # Rodapé
+st.caption("Ganho calculado de 19,9%, apresentado como ~20% para simplificação executiva.")
 st.caption("Desenvolvido para o Processo Seletivo DHL - Analista de Process Excellence")
