@@ -88,6 +88,6 @@ A combinação entre **redução de headcount (-16%)** e **aumento de produtivid
 ## 👩‍💻 Autora
 
 **Daiane Nicacio**
-Analista de Processos e Projetos de TI | Scrum Master
+Analista de Processos e Projetos de TI
 
 Projeto desenvolvido como parte de estudo de caso para otimização de processos logísticos com base em BPMN, Lean e análise de dados.
